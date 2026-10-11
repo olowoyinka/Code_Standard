@@ -1,5 +1,5 @@
 ```text
-#Directory.Build.props
+### Directory.Build.props
 
 Here is what each setting does:
 
@@ -20,7 +20,7 @@ EnforceCodeStyleInBuild: Runs code style checks during build, not just in the ID
 ```
 
 ```text
-#Directory.Build.props
+### Directory.Build.props
 
 Here is what each setting does:
 
@@ -58,7 +58,7 @@ These four packages carry thousands of rules between them. That's thousands of r
 
 
 ``` text
-#.editorconfig
+### .editorconfig
 
 The .editorconfig file defines coding standards and sets the severity level for each analyzer rule. You can mark rules as errors, warnings, suggestions, or turn them off completely.
 
